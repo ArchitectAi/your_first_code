@@ -1,4 +1,9 @@
-int main()12-s{  inti
-  ;   r (i = 0; i < 10; i++)
+int main()12-s{  intint main()
+{
+  int i;
+  for (i = 0; i < 32; i++)
   {
-    printf("Holberton\n");
+    printf("Hello Holberton\n");
+  }
+  return 0;
+}
